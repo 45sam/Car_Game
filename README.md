@@ -1,7 +1,7 @@
 # Car_Game
 Control your car with arrow keys, dodge falling obstacles, and rack up points in this fast-paced racing game. Stay alert to avoid collisions and achieve the highest score possible. Press "Start Game" to begin and challenge yourself to beat your previous best!
 
-Features:
+# Features:
 
 Simple Controls: Use the left and right arrow keys to move the car.
 
@@ -13,7 +13,7 @@ Game Over Detection: Immediate feedback when the car collides with an obstacle, 
 
 Responsive Design: The game area is styled to create a visually engaging environment with smooth transitions when the game starts or stops.
 
-How to Play:
+# How to Play:
 
 Start the Game: Click the "Start Game" button to begin.
 
