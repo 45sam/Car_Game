@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Car_Game/static/css/main.d91562c6.css",
-    "main.js": "/Car_Game/static/js/main.40f981cb.js",
+    "main.css": "/Car_Game/static/css/main.dbc5514f.css",
+    "main.js": "/Car_Game/static/js/main.32c28122.js",
     "static/js/453.f6bf682a.chunk.js": "/Car_Game/static/js/453.f6bf682a.chunk.js",
     "index.html": "/Car_Game/index.html",
-    "main.d91562c6.css.map": "/Car_Game/static/css/main.d91562c6.css.map",
-    "main.40f981cb.js.map": "/Car_Game/static/js/main.40f981cb.js.map",
+    "main.dbc5514f.css.map": "/Car_Game/static/css/main.dbc5514f.css.map",
+    "main.32c28122.js.map": "/Car_Game/static/js/main.32c28122.js.map",
     "453.f6bf682a.chunk.js.map": "/Car_Game/static/js/453.f6bf682a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d91562c6.css",
-    "static/js/main.40f981cb.js"
+    "static/css/main.dbc5514f.css",
+    "static/js/main.32c28122.js"
   ]
 }
