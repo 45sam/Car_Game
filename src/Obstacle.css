@@ -1,0 +1,9 @@
+/* src/components/Obstacle.css */
+.obstacle {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    font-size: 30px;
+    text-align: center;
+  }
+  

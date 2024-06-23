@@ -1,0 +1,11 @@
+/* src/components/Car.css */
+.car {
+    position: absolute;
+    bottom: 10px;
+    width: 40px;
+    height: 80px;
+    font-size: 40px;
+    text-align: center;
+    transition: left 0.1s ease; /* Smooth movement */
+  }
+  

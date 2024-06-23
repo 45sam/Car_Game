@@ -1,0 +1,59 @@
+/* src/components/Game.css */
+.game-container {
+  width: 500px;
+  height: 600px;
+  position: relative;
+  border: 2px solid #000;
+  background: linear-gradient(to bottom, #dff, #9ff);
+  overflow: hidden;
+  margin: 0 auto;
+  transition: background 0.5s ease; /* Smooth background transition */
+}
+
+.game-container.stopped {
+  background: linear-gradient(to bottom, #fff, #ddd); /* Lighter background when stopped */
+}
+
+.game-container.started {
+  background: linear-gradient(to bottom, #dff, #9ff); /* Game background when started */
+}
+
+.score-board {
+  position: absolute;
+  top: 10px;
+  left: 398px;
+  background: rgba(255, 255, 255, 0.8);
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 16px;
+  color: #000;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Comic Sans MS', cursive, sans-serif;
+  color: #333;
+}
+
+h2 {
+  text-align: center;
+  font-family: 'Comic Sans MS', cursive, sans-serif;
+  color: red;
+}
+
+.start-button {
+  display: block;
+  margin: 20px auto;
+  padding: 10px 20px;
+  font-size: 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: #28a745; /* Green */
+  color: white;
+  transition: background-color 0.3s ease;
+}
+
+.start-button:hover {
+  background-color: #218838;
+}
